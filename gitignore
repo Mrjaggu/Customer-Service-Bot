@@ -1,0 +1,5 @@
+*.__pycache_
+!run.sh
+!start_services.sh
+!stories.txt
+!Voice_bot.py
