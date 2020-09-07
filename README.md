@@ -2,10 +2,10 @@
 A customer service bot using Rasa framework.
 
 ## Screens
-UI
-![ScreenShot](./chatbot_1.png) !
+### UI
+![ScreenShot](./chatbot_1.png) 
 
-Telegram
+### Telegram
 <p float="left">
   <img src="./chatbot_telegram1.jpg" width="300" />
   <img src="./chatbot_telegram2.jpg" width="300" /> 
