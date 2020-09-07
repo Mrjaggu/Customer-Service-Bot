@@ -7,6 +7,12 @@ UI
 Telegram
 ![ScreenShot](./chatbot_telegram1.jpg) ![ScreenShot](./chatbot_telegram2.jpg) ![ScreenShot](./chatbot_telegram3.jpg) !
 
+<p float="left">
+  <img src="./chatbot_telegram1.jpg" width="100" />
+  <img src="./chatbot_telegram2.jpg" width="100" /> 
+  <img src="./chatbot_telegram3.jpg" width="100" />
+</p>
+
 
 ## Features
 - User can search for the queries regarding network issues.
