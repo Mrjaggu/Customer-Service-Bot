@@ -2,7 +2,10 @@
 A customer service bot using Rasa framework.
 
 ## Screens
+UI
 ![ScreenShot](./chatbot_1.png) !
+Telegram
+![ScreenShot](./chatbot_telegram1.jpg) ![ScreenShot](./chatbot_telegram2.jpg) ![ScreenShot](./chatbot_telegram3.jpg) !
 
 
 ## Features
