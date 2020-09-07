@@ -7,9 +7,9 @@ UI
 
 Telegram
 <p float="left">
-  <img src="./chatbot_telegram1.jpg" width="400" />
-  <img src="./chatbot_telegram2.jpg" width="400" /> 
-  <img src="./chatbot_telegram3.jpg" width="400" />
+  <img src="./chatbot_telegram1.jpg" width="300" />
+  <img src="./chatbot_telegram2.jpg" width="300" /> 
+  <img src="./chatbot_telegram3.jpg" width="300" />
 </p>
 
 
