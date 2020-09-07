@@ -19,6 +19,7 @@ A customer service bot using Rasa framework.
 
 ## Rasa Components Used
 - [Transformer Embedding Dialogue Policy (TEDP)](https://rasa.com/docs/rasa/core/policies/#ted-policy)
+- [Mapping Policy (TEDP)](https://rasa.com/docs/rasa/core/policies/#mapping-policy)
 - [Retrieval Actions](https://rasa.com/docs/rasa/core/retrieval-actions/#retrieval-actions)
 - [DIET Classifier](https://rasa.com/docs/rasa/nlu/components/#dietclassifier)
 
